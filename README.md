@@ -16,7 +16,7 @@ Here are some resources and roadmaps to help you learn React, Python, Generative
 
 ### 3. **Generative AI (Gen AI)**
 - **Introduction Resources**:
-  - [Google's Generative AI Learning Path](https://developers.google.com/learn/pathways/generative-ai)
+  - [Google's Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)
   - [OpenAI Resources](https://beta.openai.com/docs/)
 - **Roadmap**:
   - [Generative AI Roadmap (GitHub)]([https://github.com/codedamn/generative-ai-roadmap](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024))
